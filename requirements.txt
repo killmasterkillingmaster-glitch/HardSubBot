@@ -1,5 +1,0 @@
-pyrogram
-tgcrypto
-ffmpeg-python
-requests
-charset-normalizer
